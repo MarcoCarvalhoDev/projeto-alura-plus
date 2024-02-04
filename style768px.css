@@ -1,0 +1,31 @@
+.container {
+    display: block;
+}
+
+.container__titulo {
+    padding-top: 8em;
+}
+
+.container__imagem {
+    width: 50vw;
+}
+
+.container__caixa {
+    margin: 2em 2em;
+}
+
+.secundario {
+    margin: 0;
+    text-align: center;
+}
+.secundario__imagem {
+    width: 50vw;
+}
+
+.dispositivos__lista {
+    display: block;
+}
+
+.rodape__lista{
+    display: block;
+}
